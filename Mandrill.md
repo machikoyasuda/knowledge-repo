@@ -1,4 +1,7 @@
-# Instructions
+# Mandrill
+
+## Instructions
+
 1. Log into https://mandrillapp.com
 2. Outbound
 3. Templates https://mandrillapp.com/templates
